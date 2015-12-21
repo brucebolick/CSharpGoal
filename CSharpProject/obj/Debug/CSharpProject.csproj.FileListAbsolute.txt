@@ -1,0 +1,6 @@
+C:\CSharpProject\CSharpProject\bin\Debug\CSharpProject.exe.config
+C:\CSharpProject\CSharpProject\bin\Debug\CSharpProject.exe
+C:\CSharpProject\CSharpProject\bin\Debug\CSharpProject.pdb
+C:\CSharpProject\CSharpProject\obj\Debug\CSharpProject.csprojResolveAssemblyReference.cache
+C:\CSharpProject\CSharpProject\obj\Debug\CSharpProject.exe
+C:\CSharpProject\CSharpProject\obj\Debug\CSharpProject.pdb
